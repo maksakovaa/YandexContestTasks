@@ -1,1 +1,2 @@
-# YandexContestTasks
+# Yandex Contest Tasks
+Решение интересных задачек из яндекс контеста по С++
